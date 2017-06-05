@@ -8,7 +8,7 @@
   - 需要python3.6 [python3.6](https://www.python.org/downloads/windows/)
   - 安装依赖
   - 安装pip [pip9.0](https://pypi.python.org/pypi/pip)
-  - 部署PhantomJS [PhantomJS](http://phantomjs.org/download.html)
+  - 部署PhantomJS [PhantomJS](http://phantomjs.org/download.html)
  
 ### pip安装
 
