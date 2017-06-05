@@ -18,7 +18,7 @@
 
 ### PhantomJS
 
-解压后会有一个文件PhantomJS.exe，添加这个文件路径进系统环境变量PATH
+解压后bin文件夹会有一个文件PhantomJS.exe，添加这个文件路径进系统环境变量PATH
 cmd输入
 ```sh
 PhantomJS
