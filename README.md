@@ -7,25 +7,8 @@
 
   - 需要python3.6 [python3.6](https://www.python.org/downloads/windows/)
   - 安装依赖
-  - 安装pip [pip9.0](https://pypi.python.org/pypi/pip)
   - 部署PhantomJS [PhantomJS](http://phantomjs.org/download.html)
- 
-### pip安装
-
-> windows的python不带包管理器pip，需要自行安装
-
-解压pip.taz.gz到一个文件夹，然后用cmd进入解压文件夹，输入
-```sh
- python setup.py install
-```
-环境变量要添加例如C:\Python36\Scripts;的路径
-cmd输入
-```sh
-  pip --version
-```
-测试是否输出版本，输出配置完成
   
-
 ### 依赖包安装
 
 文件夹内有requirements.txt依赖文件，安装方法
