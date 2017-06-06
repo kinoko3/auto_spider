@@ -8,6 +8,7 @@
   - 需要python3.6 [python3.6](https://www.python.org/downloads/windows/)
   - 安装依赖
   - 部署PhantomJS [PhantomJS](http://phantomjs.org/download.html)
+  - 安装tesseract
   
 ### 依赖包安装
 
@@ -36,6 +37,10 @@ cmd进入项目内，输入
 ```python
 python main.py
 ```
+### tesseract-ORC安装
+
+[官方安装文档](https://github.com/tesseract-ocr/tesseract/wiki)
+
 
 ## 功能和注意
 
