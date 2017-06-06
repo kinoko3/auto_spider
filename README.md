@@ -8,7 +8,7 @@
   - 需要python3.6 [python3.6](https://www.python.org/downloads/windows/)
   - 安装依赖
   - 部署PhantomJS [PhantomJS](http://phantomjs.org/download.html)
-  - 安装tesseract
+  - 安装tesseract
   
 ### 依赖包安装
 
